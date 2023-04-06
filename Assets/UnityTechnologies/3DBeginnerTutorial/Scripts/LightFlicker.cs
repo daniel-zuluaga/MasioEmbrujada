@@ -123,12 +123,4 @@ public class LightFlickerEditor : Editor
 
         serializedObject.ApplyModifiedProperties ();
     }
-
-    /*public Light flickeringLight;
-    public Renderer flickeringRenderer;
-    public FlickerMode flickerMode;
-    public float lightIntensityMin = 1.25f;
-    public float lightIntensityMax = 2.25f;
-    public float flickerDuration = 0.075f;
-    public AnimationCurve intensityCurve;*/
 }
